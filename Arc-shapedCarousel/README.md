@@ -42,9 +42,9 @@ const CONFIG = {
 };
 
 
+### 项目运行
 
-
-### Project Setup
+```sh
 npm install
 ```
 
