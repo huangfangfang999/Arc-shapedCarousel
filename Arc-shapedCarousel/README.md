@@ -41,9 +41,10 @@ const CONFIG = {
   OPACITY: 0.35,
 };
 
-## Project Setup
 
-###
+
+
+### Project Setup
 npm install
 ```
 
