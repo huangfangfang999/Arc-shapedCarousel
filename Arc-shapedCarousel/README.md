@@ -43,7 +43,7 @@ const CONFIG = {
 
 ## Project Setup
 
-```sh
+###
 npm install
 ```
 
