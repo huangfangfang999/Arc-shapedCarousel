@@ -2,8 +2,8 @@
 
 基于vue3+vite+pinia<br>
 弧形轮播路径：src/views/Arc-shapedCarousel.vue<br>
-不是vue项目，也可以参考其中的js，未使用任何插件，原生写法<br>
-可以直接复制<br>
+如果不是vue项目，也可以参考其中的js，未使用任何插件，原生写法<br>
+可以直接复制js<br>
 
 ![动图示例](https://github.com/huangfangfang999/Arc-shapedCarousel/blob/main/Arc-shapedCarousel/src/assets/arc-gif.gif)<br>
 
