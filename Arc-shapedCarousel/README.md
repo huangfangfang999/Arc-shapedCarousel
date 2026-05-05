@@ -37,7 +37,7 @@ const CONFIG = {
   /** 弧形：相对中心的偏移每增加 1，透明度降低多少（与 opacity = 1 - |offset| * OPACITY 配合） */
   OPACITY: 0.35,
 };
-
+```
 
 ### 项目运行
 
