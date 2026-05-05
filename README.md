@@ -1,6 +1,7 @@
 # vue-project
 
 基于vue3+vite+pinia<br>
+封装成了子组件，父组件只需要传图片<br>
 如果不是vue项目，也可以参考其中的js，未使用任何插件，原生写法<br>
 可以直接复制js<br>
 node版本号：22.21.0<br>
